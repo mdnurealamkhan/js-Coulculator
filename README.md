@@ -1,1 +1,1 @@
-# js-Coulculator
+# js-Calculator
