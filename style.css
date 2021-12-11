@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+.wrapper{
+    background-color: rgb(114, 108, 108);
+    padding: 10px 5px;
+    border-radius: 5px;
+}
+.row{
+    display: flex;
+}
+.row button{
+    flex: 1;
+    
+}
